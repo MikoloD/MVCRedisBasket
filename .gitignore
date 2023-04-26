@@ -1,6 +1,9 @@
 ###################
 # compiled source #
 ###################
+*.bin
+*.vs
+*.obj
 *.com
 *.class
 *.dll
